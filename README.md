@@ -1,4 +1,4 @@
-# Gym Booking Bot
+# Fitness Bot
 
 <img src="https://user-images.githubusercontent.com/36112125/113499920-e8431a00-94e7-11eb-977a-0f0810a3a0e8.png" alt="Your image title" width="120"/>
 
